@@ -59,13 +59,6 @@ The file structure is as follows:
 10. **match_classification.ipynb**: Classification models with hyperparameter tuning for the match result prediction task.                         
 
 
-## Contributors
-
-1. Mudit Dhawan
-2. Samik Prakash
-3. Shivangi Dhiman
-
-
 
 
 

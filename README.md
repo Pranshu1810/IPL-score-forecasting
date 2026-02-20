@@ -56,7 +56,8 @@ The file structure is as follows:
 
 9. **Player_Embedding_Vectors.ipynb**: Creates player embeddings based on the player-wise performance scraped from IPL's official website.
 
-10. **match_classification.ipynb**: Classification models with hyperparameter tuning for the match result prediction task.                         
+10. **match_classification.ipynb**: Classification models with hyperparameter tuning for the match result prediction task.
+    CONTRIBUTOR: Pranshu; Sankalp
 
 
 
